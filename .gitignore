@@ -1,0 +1,8 @@
+/.idea/
+*.dll
+*.mdb
+*.apk
+/GameConsole/bin/
+/GameConsole/obj/
+/RockPaperScissors/bin/
+/RockPaperScissors/obj/
